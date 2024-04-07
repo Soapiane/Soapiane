@@ -11,7 +11,7 @@ I love building robust APIs , unraveling algorithms and network protocols and da
     </div>
     <div>
     <a href="mailto:ls_yekene@esi.dz"> 
-      <img src="https://img.shields.io/badge/Gmail-Ls_yekene@esi.dz-red" alt="Gmail"  height="40">
+      <img src="https://img.shields.io/badge/Gmail-Ls_yekene@esi.dz-red" alt="Gmail"  height="30">
     </a>
     </div>
   </div>
