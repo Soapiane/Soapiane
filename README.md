@@ -3,13 +3,7 @@ I'm a **computer science student** with a passion for **backend development** an
 I love building robust APIs , unraveling algorithms and network protocols and data science challenges.
 <div style="display: flex; justify-content: center; align-items: center;">
   <div>Feel free to reach out</div>
-  <div id="badges" style="display:flex;flex-direction:row;justify-content:center;align-items: center;">
-    <div>
-      <a href="https://www.linkedin.com/in/yekene-sofiane/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="mailto:ls_yekene@esi.dz"> <img src="https://img.shields.io/badge/Gmail-Ls_yekene@esi.dz-red" alt="Gmail"  height="30"> </a>
-
-    </div>
-  </div>
-</div>
+  <a href="https://www.linkedin.com/in/yekene-sofiane/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="mailto:ls_yekene@esi.dz"> <img src="https://img.shields.io/badge/Gmail-Ls_yekene@esi.dz-red" alt="Gmail"  height="30"> </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
