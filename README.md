@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a **computer science student** with a passion for **backend development** and **AI**.
-I love building robust APIs , unraveling algorithms and network protocols and data science challenges.
+I love building robust APIs , discovering new algorithms , network protocols and data science challenges.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
