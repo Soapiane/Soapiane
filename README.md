@@ -1,9 +1,6 @@
 ### Hi there 👋
 I'm a **computer science student** with a passion for **backend development** and **AI**.
 I love building robust APIs , unraveling algorithms and network protocols and data science challenges.
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div>Feel free to reach out</div>
-  <a href="https://www.linkedin.com/in/yekene-sofiane/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="mailto:ls_yekene@esi.dz"> <img src="https://img.shields.io/badge/Gmail-Ls_yekene@esi.dz-red" alt="Gmail"  height="28"> </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,6 +28,10 @@ I love building robust APIs , unraveling algorithms and network protocols and da
 ![Soapiane's Stats](https://github-readme-stats.vercel.app/api?username=Soapiane&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Soapiane's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soapiane&theme=dark&hide_border=true)
 ![Soapiane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soapiane&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+
+  <div>Feel free to reach out</div>
+  <a href="https://www.linkedin.com/in/yekene-sofiane/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="mailto:ls_yekene@esi.dz"> <img src="https://img.shields.io/badge/Gmail-Ls_yekene@esi.dz-red" alt="Gmail"  height="28"> </a>
 <!--
 **Soapiane/Soapiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
