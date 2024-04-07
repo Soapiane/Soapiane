@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a **computer science student** with a passion for **backend development** and **AI**.
 I love building robust APIs , unraveling algorithms and network protocols and data science challenges.
-🔥 **Let's connect!**
+**Let's connect!**
 Feel free to reach out
 <div id="badges">
   <a href="https://www.linkedin.com/in/yekene-sofiane/">
