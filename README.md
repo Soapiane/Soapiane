@@ -7,6 +7,9 @@ I love building robust APIs , unraveling algorithms and network protocols and da
     <a href="https://www.linkedin.com/in/yekene-sofiane/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="mailto:ls_yekene@esi.dz"> 
+      <img src="https://img.shields.io/badge/Gmail-Ls_yekene@esi.dz-red" alt="Gmail"
+    </a>
   </div>
 </div>
 
