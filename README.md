@@ -23,9 +23,9 @@
 
 ### :fire: My Stats :
 ![Soapiane's Stats](https://github-readme-stats.vercel.app/api?username=Soapiane&theme=dark&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soapiane&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![Soapiane's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soapiane&theme=dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soapiane&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Soapiane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soapiane&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Soapiane/Soapiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
