@@ -1,14 +1,14 @@
 ### Hi there 👋
 I'm a **computer science student** with a passion for **backend development** and **AI**.
 I love building robust APIs , unraveling algorithms and network protocols and data science challenges.
-**Let's connect!**
-Feel free to reach out
-<div id="badges">
-  <a href="https://www.linkedin.com/in/yekene-sofiane/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div stye="display: flex; justify-content: center; align-items: center;">
+  <div>Feel free to reach out</div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/yekene-sofiane/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
