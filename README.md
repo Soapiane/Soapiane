@@ -22,6 +22,7 @@
 </div>
 
 ### :fire: My Stats :
+![Soapiane's Stats](https://github-readme-stats.vercel.app/api?username=Soapiane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soapiane&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soapiane&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
