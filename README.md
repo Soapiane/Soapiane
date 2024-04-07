@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm a **computer science student** with a passion for **backend development** and **AI**.
+I love building robust APIs , unraveling algorithms and network protocols and data science challenges.
+🔥 **Let's connect!**
+Feel free to reach out
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yekene-sofiane/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -24,7 +33,6 @@
 ### :fire: My Stats :
 ![Soapiane's Stats](https://github-readme-stats.vercel.app/api?username=Soapiane&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Soapiane's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soapiane&theme=dark&hide_border=true)
-
 ![Soapiane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soapiane&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Soapiane/Soapiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
