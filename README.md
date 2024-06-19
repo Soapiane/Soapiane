@@ -26,6 +26,10 @@ I love building robust APIs , discovering new algorithms , network protocols and
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" **alt="Google Cloud" width="40" height="40"/>
 </div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
+</div>
 
 ### :fire: My Stats :
 ![Soapiane's Stats](https://github-readme-stats.vercel.app/api?username=Soapiane&theme=dark&show_icons=true&hide_border=true&count_private=true)
